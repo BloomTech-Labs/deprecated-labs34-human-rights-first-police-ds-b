@@ -29,6 +29,7 @@ Establishing functionality for the twitter scraper (aka Twitterbot) to respond t
 2) Concise-Twitter's character limit of 280 characters is a natural constraint
 3) Informative-Explaining why more information is necessary
 4) Compelling-Overcoming the natural human aversion to interacting with an unsolicited automated responses is a challenge
+
 This would help to improve the quantity of applicable data to be catalogued.
 
 Reducing the number of false positives in our data. This could present itself in more robust training data, fine tuning of the keywords used for ranking or through other means. This would help to improve the quality of applicable data to be catalogued.
