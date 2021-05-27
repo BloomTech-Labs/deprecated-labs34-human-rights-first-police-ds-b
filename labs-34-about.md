@@ -14,23 +14,23 @@ Notebooks-A collection of notebooks from previous cohorts detailing their work a
 
 App-Where the other functional components of the project reside and where most work will be done. This includes:
 
-create_db_tables.py-The file that creates the table when connected to the database
+  create_db_tables.py-The file that creates the table when connected to the database
 
-db.py-The file that establishes connection to the database
+  db.py-The file that establishes connection to the database
 
-helper_funcs.py-The file that contains functions called throughout the rest of the application
+  helper_funcs.py-The file that contains functions called throughout the rest of the application
 
-main.py-The file that establishes the application using FastAPI
+  main.py-The file that establishes the application using FastAPI
 
-reddit.py-The file that returns reddit data
+  reddit.py-The file that returns reddit data
 
-scraper.py-The file that adds scraped data that has been ranked to the database
+  scraper.py-The file that adds scraped data that has been ranked to the database
 
-textmatcher.py-The file that contains NLP text matching data (used for ranking purposes)
+  textmatcher.py-The file that contains NLP text matching data (used for ranking purposes)
 
-training_data.py-The file containing the keywords used for classification of rank
+  training_data.py-The file containing the keywords used for classification of rank
 
-twitter.py-The file that returns twitter data
+  twitter.py-The file that returns twitter data
 
 # Steps For The Future
 
